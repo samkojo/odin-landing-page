@@ -73,3 +73,13 @@ section {
     color: #f9faf8;
     font-weight: 900;
 }
+
+button {
+    margin-top: 12px;
+    background-color: #3882f6;
+    border: 0;
+    border-radius: 0.4rem;
+    padding: 8px 24px;
+    color: white;
+    font-size: 15px;
+}
