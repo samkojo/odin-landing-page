@@ -55,3 +55,7 @@ a {
 body section:first-of-type {
     padding-top: 60px;
 }
+
+section {
+    height: 400px;
+}
