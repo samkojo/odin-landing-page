@@ -103,3 +103,10 @@ button {
     font-weight: 900;
     padding: 36px 0;
 }
+
+.list-cards {
+    display: flex;
+    gap: 42px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
