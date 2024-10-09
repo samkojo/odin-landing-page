@@ -96,3 +96,10 @@ button {
     flex-direction: column;
     justify-content: flex-start;
 }
+
+.information .header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    padding: 36px 0;
+}
