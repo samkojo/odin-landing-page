@@ -146,3 +146,13 @@ button {
     font-size: 18px;
     font-weight: bold;
 }
+
+.action {
+    background-color: #3882f6;
+    height: 60px;
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 40px 100px;
+    display: flex;
+}
+
