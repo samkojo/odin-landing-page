@@ -83,3 +83,11 @@ button {
     color: white;
     font-size: 15px;
 }
+
+.hero-image {
+    height: 210px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
