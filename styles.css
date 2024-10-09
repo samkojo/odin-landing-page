@@ -162,3 +162,13 @@ button {
     flex-direction: column;
     justify-content: center;
 }
+
+.action-text {
+    font-size: 24px;
+    font-weight: 500;
+    color: #f9faf8;
+}
+
+.action-subtext {
+    color: #e5e7eb;
+}
