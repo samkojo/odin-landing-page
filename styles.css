@@ -17,3 +17,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.dark-background-color {
+    background-color: #1F2937;
+    color: #e5e7eb;
+}
+
