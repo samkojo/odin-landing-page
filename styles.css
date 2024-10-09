@@ -59,3 +59,11 @@ body section:first-of-type {
 section {
     height: 400px;
 }
+
+.hero .container {
+    gap: 40px;
+}
+
+.hero > .container > * {
+    flex: 1;
+}
