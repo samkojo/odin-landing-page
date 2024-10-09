@@ -124,3 +124,12 @@ button {
 .card-text {
     text-align: center;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote .container {
+    flex-direction: column;
+    max-width: 800px;
+}
