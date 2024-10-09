@@ -194,7 +194,10 @@ button:active {
     border: 2px solid #f9faf8;
 }
 
+main {
+    flex: 1;
+}
+
 footer {
-    margin-top: auto;
     height: 80px;
 }
