@@ -85,6 +85,15 @@ button {
     padding: 8px 24px;
     color: white;
     font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1f72f6;
+}
+
+button:active {
+    background-color: #0040a6;
 }
 
 .hero-image {
